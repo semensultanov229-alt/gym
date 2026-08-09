@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="../data/img/WELCOME.gif" alt="Описание" style="max-width: 100%;">
-</p>
-
 # LEVEL 1. Вывод в STDOUT
 
 В этом задании мы разберем какие есть типы данных. Мы создадим переменные и узнаем их тип.
