@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../data/img/WELCOME.gif" alt="Описание" style="max-width: 100%;">
+  <img src="../data/img/wall.jfif" alt="Описание" style="max-width: 100%;">
 </p>
 
 # LEVEL 1. Вывод в STDOUT
